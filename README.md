@@ -1,2 +1,17 @@
-# jogo-dino-java
-Jogo estilo Dino desenvolvido em Java utilizando lógica de colisão, movimentação e interface gráfica.
+# Jogo Dino em Java
+
+Projeto desenvolvido em Java inspirado no jogo do dinossauro.
+
+## Funcionalidades
+
+* Pulo do personagem
+* Obstáculos em movimento
+* Sistema de colisão
+* Pontuação
+* Reinício do jogo
+
+## Tecnologias
+
+* Java
+* Swing
+* NetBeans
